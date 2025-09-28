@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://cc5hhiwfn8ht3"]
+
+[ext_resource type="Texture2D" uid="uid://dwbnsax3fiwhx" path="res://Bullet/LazerBeam.png" id="2_v6c0s"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2s8w7"]
+size = Vector2(80, 8)
+
+[node name="Lazer" type="StaticBody2D"]
+rotation = 3.1422806
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+rotation = 1.5707964
+scale = Vector2(1, 2.5)
+texture = ExtResource("2_v6c0s")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(2.1855694e-08, 1)
+shape = SubResource("RectangleShape2D_2s8w7")
+
+[node name="VisibleOnScreenEnabler2D" type="VisibleOnScreenEnabler2D" parent="."]
+rect = Rect2(-40.153156, -3.2993145, 80.4176, 8.720436)
