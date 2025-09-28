@@ -1,6 +1,6 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1759040415
-export_presets.cfg::TextFile::-1::1759040415::0::1::::<><><>0<>0<><>::
+::res://::1759040702
+export_presets.cfg::TextFile::-1::1759040702::0::1::::<><><>0<>0<><>::
 ::res://Assets/::1759036711
 Blue.png::CompressedTexture2D::1212811562178887197::1758948425::1759036602::1::::<><><>0<>0<>4d26699baa0362c7a5823ff7deba6b55<>res://.godot/imported/Blue.png-7d44080c477d302cd4d04cf4d7e48fd0.ctex::
 character_body_2d.gd::GDScript::2983567299366738244::1759033871::0::1::::<>CharacterBody2D<><>0<>0<><>::
@@ -39,10 +39,10 @@ LazerBeam.png::CompressedTexture2D::8706302490876042797::1758973589::1758974444:
 ::res://Enemies/::1759021921
 enemy.gd::GDScript::7653851708262634099::1759021921::0::1::::<>RigidBody2D<><>0<>0<><>::
 rigid_body_2d.tscn::PackedScene::6521597432729882412::1759021921::0::1::::<><><>0<>0<><>::uid://dvx2fkno637j7::::res://Mushroom/Idle (32x32).png<>uid://dhbt24ho3tdxb::::res://Enemies/enemy.gd
-::res://Export/::1759040414
-Practice.apple-touch-icon.png::CompressedTexture2D::4972328489226763727::1759040414::1759040469::1::::<><><>0<>0<>af2517ffdfe982439a7e8f8de0374765<>res://.godot/imported/Practice.apple-touch-icon.png-e9d83a6b0e53f95ff12dccd8e2c3ab56.ctex::
-Practice.icon.png::CompressedTexture2D::5652179764821255579::1759040414::1759040469::1::::<><><>0<>0<>2467484ef5f7f7478bc59e44e072ac28<>res://.godot/imported/Practice.icon.png-e25aeaffa4a4661156d46bd1be491c49.ctex::
-Practice.png::CompressedTexture2D::4962516036526628206::1759040414::1759040469::1::::<><><>0<>0<>777793bb08a6d53e2e7e6f90a5fa3f84<>res://.godot/imported/Practice.png-30e661f5c0057b3bbe66e1b360f28d3d.ctex::
+::res://Export/::1759041020
+Practice.apple-touch-icon.png::CompressedTexture2D::6733788471890093796::1759040702::1759041370::1::::<><><>0<>0<>cfc5f52bd4b1f1b3b13cf25a166fd6da<>res://.godot/imported/Practice.apple-touch-icon.png-e9d83a6b0e53f95ff12dccd8e2c3ab56.ctex::
+Practice.icon.png::CompressedTexture2D::4733076514907737794::1759040702::1759041370::1::::<><><>0<>0<>359393119bf4dd7f6587dcafbc5e1dba<>res://.godot/imported/Practice.icon.png-e25aeaffa4a4661156d46bd1be491c49.ctex::
+Practice.png::CompressedTexture2D::4249176527538520438::1759040702::1759041371::1::::<><><>0<>0<>0122f653e373c32afa7c571826535df1<>res://.godot/imported/Practice.png-30e661f5c0057b3bbe66e1b360f28d3d.ctex::
 ::res://Levels/::1759038759
 Level 1.tscn::PackedScene::7515114514344023111::1759036711::0::1::::<><><>0<>0<><>::uid://rjq3guiylslh::::res://Assets/Blue.png<>uid://53d78d4421c4::::res://Assets/Terrain (16x16).png<>uid://c76b6in0tubfg::::res://Scenes/main_character.tscn<>uid://dbb0ij5aasxnq::::res://Assets/panel.gd<>uid://dqa6syyqgo3iy::::res://Assets/pause.gd<>uid://l78cr8vq6v53::::res://Assets/stopwatch.png<>uid://cy6d0y8gne67a::::res://Enemies/rigid_body_2d.tscn<>uid://16cckl6jtqef::::res://Assets/game_Time_manager.gd<>uid://c1ki25sbncxdt::::res://Assets/fallpoint.gd<>uid://fhj7ek26n75m::::res://Assets/fracture(end).tscn<>uid://cwx85fr8nual3::::res://Levels/Level 2.tscn
 Level 2.tscn::PackedScene::6366534140740683234::1759036785::0::1::::<><><>0<>0<><>::uid://rjq3guiylslh::::res://Assets/Blue.png<>uid://53d78d4421c4::::res://Assets/Terrain (16x16).png<>uid://c76b6in0tubfg::::res://Scenes/main_character.tscn<>uid://dbb0ij5aasxnq::::res://Assets/panel.gd<>uid://l78cr8vq6v53::::res://Assets/stopwatch.png<>uid://dqa6syyqgo3iy::::res://Assets/pause.gd<>uid://cy6d0y8gne67a::::res://Enemies/rigid_body_2d.tscn<>uid://16cckl6jtqef::::res://Assets/game_Time_manager.gd<>uid://c1ki25sbncxdt::::res://Assets/fallpoint.gd<>uid://fhj7ek26n75m::::res://Assets/fracture(end).tscn<>uid://ces5le6l4ue6a::::res://Levels/Level 3.tscn
