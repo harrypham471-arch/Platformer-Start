@@ -1,0 +1,14 @@
+res://Assets/character_body_2d.tscn::856a5aecda2e9b12dccde7883d44e2a4::1759036598::res://.godot/exported/133200997/export-451040ca00aee9120925b564ff5479f8-character_body_2d.scn
+res://Assets/fracture(end).tscn::7d1067895c95e2db1fe899fed0294a08::1759036598::res://.godot/exported/133200997/export-042245155528d50ab7c596d62f29682a-fracture(end).scn
+res://Assets/Sword.tscn::edca4acee2c0b92d911bcb24e10cd288::1759036598::res://.godot/exported/133200997/export-0401f2cf5f97b7df68e35c37ce944247-Sword.scn
+res://Bullet/lazer.tscn::ee01a5d478b05c59ecd3645572f73c24::1759031956::res://.godot/exported/133200997/export-80ac431d47fedc00161f8fe0f100d5eb-lazer.scn
+res://Enemies/rigid_body_2d.tscn::39eb57afd0c6d79ff9a6a53ccab4bd89::1759021921::res://.godot/exported/133200997/export-15ea9417e0cee149f032d114fd208f79-rigid_body_2d.scn
+res://Levels/Level 1.tscn::daf3ca91ae6ff13792c993ac61c8a889::1759036711::res://.godot/exported/133200997/export-307e36b078ff4e79ad4d0065aa94fe72-Level 1.scn
+res://Levels/Level 2.tscn::7d1100ca896f5297f2a655a12a4edf5c::1759036785::res://.godot/exported/133200997/export-2b406789832be93255a73e1d68ebf851-Level 2.scn
+res://Levels/Level 3.tscn::46a257253ee2bdd18ad3aa6b09b3f2cd::1759036598::res://.godot/exported/133200997/export-e3986904a6156ca3edca617a8891054f-Level 3.scn
+res://Levels/Level 4.tscn::7af327a089dd558084cd29e36c7b380d::1759036598::res://.godot/exported/133200997/export-2d168546c5c1699594d488f481b6a989-Level 4.scn
+res://Levels/Level 5.tscn::d1563dd2d751e20fd2d76667f782ad73::1759036598::res://.godot/exported/133200997/export-1b69b936fde61565b1e5ea18218ee584-Level 5.scn
+res://Levels/Main Menu.tscn::73bb01b78f749030f2b87b4882980f40::1759038759::res://.godot/exported/133200997/export-54dc644ebd4795ba4b9dcd7faf6ac0de-Main Menu.scn
+res://Platforms/animatable_body_2d.tscn::1de1b490401bbbce34d9ea31d14c6554::1759036598::res://.godot/exported/133200997/export-854a6ce3d1ba1e3ad8a28ef4f39cbf4f-animatable_body_2d.scn
+res://Scenes/main_character.tscn::a655506294bdd6129bd399061d96dae1::1759036598::res://.godot/exported/133200997/export-48539379cb23704926feff6a31c23c83-main_character.scn
+res://Scenes/Spikes.tscn::b55258d2304b6e16631af8645d0618a8::1759036598::res://.godot/exported/133200997/export-394349dab921de09bec683ef71dd5084-Spikes.scn
