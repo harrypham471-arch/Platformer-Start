@@ -18,4 +18,4 @@ func _process(delta):
 		frame = 0
 
 	if (time_manager.give_time() <= 0):
-		get_tree().quit()
+		get_tree().reload_current_scene()

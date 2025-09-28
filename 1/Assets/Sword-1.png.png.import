@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://l78cr8vq6v53"
-path="res://.godot/imported/stopwatch.png-5648308542559d00cdb8aea2a77ee2bc.ctex"
+uid="uid://bn5btf02w0o2c"
+path="res://.godot/imported/Sword-1.png.png-b12405bc708bf6f9b15fe250aee15449.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://stopwatch.png"
-dest_files=["res://.godot/imported/stopwatch.png-5648308542559d00cdb8aea2a77ee2bc.ctex"]
+source_file="res://Assets/Sword-1.png.png"
+dest_files=["res://.godot/imported/Sword-1.png.png-b12405bc708bf6f9b15fe250aee15449.ctex"]
 
 [params]
 

@@ -1,11 +1,11 @@
 [gd_scene load_steps=32 format=3 uid="uid://c76b6in0tubfg"]
 
-[ext_resource type="Script" uid="uid://biri6gwbtod1e" path="res://character_body_2d.gd" id="1_11o2n"]
-[ext_resource type="Texture2D" uid="uid://nip1xf7s825c" path="res://Idle (32x32).png" id="2_auhcp"]
-[ext_resource type="Texture2D" uid="uid://ep6vs30layaa" path="res://Jump (32x32).png" id="3_keg3j"]
-[ext_resource type="Texture2D" uid="uid://dfyah5xqjqh6g" path="res://Fall (32x32).png" id="3_nlild"]
-[ext_resource type="Texture2D" uid="uid://b4ib0la42kxbu" path="res://Run (32x32).png" id="4_nlild"]
-[ext_resource type="PackedScene" uid="uid://jx05krvp4quw" path="res://Sword.tscn" id="6_q6spo"]
+[ext_resource type="Script" uid="uid://biri6gwbtod1e" path="res://Assets/character_body_2d.gd" id="1_11o2n"]
+[ext_resource type="Texture2D" uid="uid://nip1xf7s825c" path="res://Assets/Idle (32x32).png" id="2_auhcp"]
+[ext_resource type="Texture2D" uid="uid://ep6vs30layaa" path="res://Assets/Jump (32x32).png" id="3_keg3j"]
+[ext_resource type="Texture2D" uid="uid://dfyah5xqjqh6g" path="res://Assets/Fall (32x32).png" id="3_nlild"]
+[ext_resource type="Texture2D" uid="uid://b4ib0la42kxbu" path="res://Assets/Run (32x32).png" id="4_nlild"]
+[ext_resource type="PackedScene" uid="uid://jx05krvp4quw" path="res://Assets/Sword.tscn" id="6_q6spo"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_44cfe"]
 atlas = ExtResource("2_auhcp")

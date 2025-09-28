@@ -1,16 +1,16 @@
 [gd_scene load_steps=15 format=4 uid="uid://5e3rw5ir7j11"]
 
-[ext_resource type="Texture2D" uid="uid://rjq3guiylslh" path="res://Blue.png" id="1_h0kg8"]
-[ext_resource type="Texture2D" uid="uid://53d78d4421c4" path="res://Terrain (16x16).png" id="2_hl0dq"]
+[ext_resource type="Texture2D" uid="uid://rjq3guiylslh" path="res://Assets/Blue.png" id="1_h0kg8"]
+[ext_resource type="Texture2D" uid="uid://53d78d4421c4" path="res://Assets/Terrain (16x16).png" id="2_hl0dq"]
 [ext_resource type="PackedScene" uid="uid://c76b6in0tubfg" path="res://Scenes/main_character.tscn" id="3_3c3me"]
-[ext_resource type="Script" uid="uid://dbb0ij5aasxnq" path="res://panel.gd" id="4_ec4ty"]
-[ext_resource type="Texture2D" uid="uid://l78cr8vq6v53" path="res://stopwatch.png" id="5_yaw71"]
-[ext_resource type="Script" uid="uid://dqa6syyqgo3iy" path="res://pause.gd" id="6_ywtwv"]
+[ext_resource type="Script" uid="uid://dbb0ij5aasxnq" path="res://Assets/panel.gd" id="4_ec4ty"]
+[ext_resource type="Texture2D" uid="uid://l78cr8vq6v53" path="res://Assets/stopwatch.png" id="5_yaw71"]
+[ext_resource type="Script" uid="uid://dqa6syyqgo3iy" path="res://Assets/pause.gd" id="6_ywtwv"]
 [ext_resource type="PackedScene" uid="uid://cy6d0y8gne67a" path="res://Enemies/rigid_body_2d.tscn" id="7_7ne3n"]
-[ext_resource type="PackedScene" uid="uid://fhj7ek26n75m" path="res://fracture(end).tscn" id="8_tldnm"]
+[ext_resource type="PackedScene" uid="uid://fhj7ek26n75m" path="res://Assets/fracture(end).tscn" id="8_tldnm"]
 [ext_resource type="PackedScene" uid="uid://dvhn8me2c6cgp" path="res://Levels/Main Menu.tscn" id="9_ec8vm"]
-[ext_resource type="Script" uid="uid://16cckl6jtqef" path="res://game_Time_manager.gd" id="10_38owm"]
-[ext_resource type="Script" uid="uid://c1ki25sbncxdt" path="res://fallpoint.gd" id="11_btfoh"]
+[ext_resource type="Script" uid="uid://16cckl6jtqef" path="res://Assets/game_Time_manager.gd" id="10_38owm"]
+[ext_resource type="Script" uid="uid://c1ki25sbncxdt" path="res://Assets/fallpoint.gd" id="11_btfoh"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
 texture = ExtResource("2_hl0dq")
@@ -493,6 +493,6 @@ shape = SubResource("SegmentShape2D_kek77")
 
 [connection signal="pressed" from="CanvasLayer/Pause/Pause Panel/VBoxContainer/Resume" to="CanvasLayer/Pause" method="_on_resume_pressed"]
 [connection signal="pressed" from="CanvasLayer/Pause/Pause Panel/VBoxContainer/Quit" to="CanvasLayer/Pause" method="_on_quit_pressed"]
-[connection signal="pressed" from="CanvasLayer/Pause/Pause Panel/VBoxContainer/Restart" to="CanvasLayer/Pause" method="_on_button_pressed"]
 [connection signal="pressed" from="CanvasLayer/Pause/Pause Panel/VBoxContainer/Restart" to="CanvasLayer/Pause" method="_on_restart_pressed"]
+[connection signal="pressed" from="CanvasLayer/Pause/Pause Panel/VBoxContainer/Restart" to="CanvasLayer/Pause" method="_on_button_pressed"]
 [connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]
