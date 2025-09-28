@@ -8,7 +8,7 @@
 [ext_resource type="Script" uid="uid://dqa6syyqgo3iy" path="res://pause.gd" id="6_ydlv6"]
 [ext_resource type="PackedScene" uid="uid://cy6d0y8gne67a" path="res://Enemies/rigid_body_2d.tscn" id="7_nh8c6"]
 [ext_resource type="PackedScene" uid="uid://fhj7ek26n75m" path="res://fracture(end).tscn" id="8_w60pl"]
-[ext_resource type="PackedScene" uid="uid://ces5le6l4ue6a" path="res://Levels/Level 3.tscn" id="9_j81wy"]
+[ext_resource type="PackedScene" uid="uid://5e3rw5ir7j11" path="res://Levels/Level 5.tscn" id="9_br1v8"]
 [ext_resource type="Script" uid="uid://16cckl6jtqef" path="res://game_Time_manager.gd" id="10_xleiv"]
 [ext_resource type="Script" uid="uid://c1ki25sbncxdt" path="res://fallpoint.gd" id="11_0oc0b"]
 
@@ -475,7 +475,7 @@ position = Vector2(4307, 545)
 
 [node name="Area2D" parent="Enemies" instance=ExtResource("8_w60pl")]
 position = Vector2(4546, 356)
-target_level = ExtResource("9_j81wy")
+target_level = ExtResource("9_br1v8")
 
 [node name="Platforms" type="Node" parent="."]
 
@@ -490,7 +490,7 @@ offset_left = 491.0
 offset_top = 309.0
 offset_right = 718.0
 offset_bottom = 332.0
-text = "Your final challenge is here!"
+text = "I would be careful if I were you"
 
 [node name="Area2D" type="Area2D" parent="."]
 position = Vector2(1376, 846)
